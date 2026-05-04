@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleApp2
@@ -9,6 +10,7 @@ namespace ConsoleApp2
     internal class Program
     {
         private static string _key {  get; set; }
+        private static int _t {  get; set; }
         static void Main(string[] args)
         {
            _key = Console.ReadLine();
@@ -39,9 +41,25 @@ namespace ConsoleApp2
                         answer();
                         break;
                     }
-                case "кто ты?":
+                case "запусти секундомер":
                     {
-                        Console.WriteLine(AppDomain.CurrentDomain.FriendlyName);
+                        Console.WriteLine("запустил");
+                        Task.Run(Ctimer);
+                        _key = Console.ReadLine();
+                        answer();
+                        break;
+                    }
+                case "сколько прошло":
+                    {
+                        Console.WriteLine(_t.ToString());
+                        _key = Console.ReadLine();
+                        answer();
+                        break;
+                    }
+                case "заверши":
+                    {
+                        Console.WriteLine("Завершил");
+                        _t = -1;
                         _key = Console.ReadLine();
                         answer();
                         break;
@@ -52,6 +70,19 @@ namespace ConsoleApp2
                         answer();
                         break;
                     }
+            }
+        }
+        private static async void Ctimer()
+        {
+            _t = 0;
+            while (true)
+            {
+                _t++;
+                Thread.Sleep(1000);
+                if (_t < 0)
+                {
+                    break;
+                }
             }
         }
 
