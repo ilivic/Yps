@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -83,7 +85,7 @@ namespace ConsoleApp2
                 case "заверши":
                     {
                         Logger("Завершил");
-                        _t = -1;
+                        _t = -1;d
                         _key = Console.ReadLine();
                         answer();
                         break;
@@ -96,6 +98,15 @@ namespace ConsoleApp2
                         answer();
                         break;
                     }
+                case "зафиксируй":
+                    {
+                        Logger("начинаю фиксирование");
+                        Task.Run(() => ShowHist());
+                        _key = Console.ReadLine();
+                        Saving(); 
+                        answer();
+                        break;
+                    }
                 default:
                     {
                         Logger("-------------");
@@ -103,6 +114,27 @@ namespace ConsoleApp2
                         answer();
                         break;
                     }
+            }
+        }
+        /// <summary>
+        /// методо логирования 
+        /// </summary>
+        private static void Saving()
+        {
+            try
+            {
+                StreamWriter writer = new StreamWriter("Index.txt");
+                foreach (var item in _log.ToList())
+                {
+                    writer.WriteLine(item.key);
+                    writer.WriteLine(item.rez);
+                    writer.WriteLine(item.date);
+                    writer.WriteLine("--------------------------");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
             }
         }
         /// <summary>
