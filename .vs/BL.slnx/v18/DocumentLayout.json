@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilivic\\Desktop\\BL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\pagesapp\\pageautho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\pagesapp\\pageautho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\pagesapp\\pageautho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\pagesapp\\pageautho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\classapp\\classdatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\classapp\\classdatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\pagesapp\\pagereg.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\pagesapp\\pagereg.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\pagesapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\pagesapp\\pagereg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|c:\\users\\ilivic\\desktop\\bl\\bl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{49AE4360-6BE2-4304-94C3-94FC864555C0}|BL\\BL.csproj|solutionrelative:bl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BL\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\App.xaml.cs",
+              "RelativeToolTip": "BL\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:21:16.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDatT.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\ClassApp\\ClassDatT.cs",
+              "RelativeDocumentMoniker": "BL\\ClassApp\\ClassDatT.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\ClassApp\\ClassDatT.cs",
+              "RelativeToolTip": "BL\\ClassApp\\ClassDatT.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:52:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageReg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageReg.xaml.cs",
+              "RelativeDocumentMoniker": "BL\\PagesApp\\PageReg.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageReg.xaml.cs",
+              "RelativeToolTip": "BL\\PagesApp\\PageReg.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:50:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageReg.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageReg.xaml",
+              "RelativeDocumentMoniker": "BL\\PagesApp\\PageReg.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageReg.xaml",
+              "RelativeToolTip": "BL\\PagesApp\\PageReg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T05:48:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageAutho.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageAutho.xaml",
+              "RelativeDocumentMoniker": "BL\\PagesApp\\PageAutho.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageAutho.xaml",
+              "RelativeToolTip": "BL\\PagesApp\\PageAutho.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T05:42:51.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageAutho.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageAutho.xaml.cs",
+              "RelativeDocumentMoniker": "BL\\PagesApp\\PageAutho.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\PagesApp\\PageAutho.xaml.cs",
+              "RelativeToolTip": "BL\\PagesApp\\PageAutho.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:43:30.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BL\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\MainWindow.xaml",
+              "RelativeToolTip": "BL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T05:41:23.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BL\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ilivic\\Desktop\\BL\\BL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BL\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:41:22.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
